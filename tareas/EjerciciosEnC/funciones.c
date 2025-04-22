@@ -8,3 +8,12 @@ int parImpar(int num){
         return 1; 
     }
 }
+int contarDigitos(int num){
+    int contador = 0;
+    while(num != 0){
+        num /= 10;
+        contador++;
+    }
+    return contador;
+
+}
