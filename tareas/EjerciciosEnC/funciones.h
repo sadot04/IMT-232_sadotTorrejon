@@ -11,4 +11,5 @@ int multiplicacionDigitos(int num1, int num2);
 int mayorMenorIgual(int num1, int num2);
 int multiplosDeTres(int num);
 int factorial(int num);
+int invertirNumero(int num);
 #endif

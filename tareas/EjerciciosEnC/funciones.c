@@ -50,3 +50,15 @@ int factorial(int num){
         return num  * factorial(num - 1);
     }
 }
+
+
+int invertirNumero(int num){
+    int invertido = 0;
+    while (num >0)
+    {
+        
+       invertido = invertido * 10 +(num%10);
+       num /= 10;
+    }
+    return invertido;
+}
