@@ -35,3 +35,10 @@ int mayorMenorIgual(int num1, int num2){
         return 0; 
     }
 }
+int multiplosDeTres(int num){
+    if(num % 3 == 0){
+        return 1; 
+    } else {
+        return 0; 
+    }
+}

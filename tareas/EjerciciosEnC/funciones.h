@@ -9,4 +9,5 @@ int sumaDigitos(int num1, int num2);
 int restaDigitos(int num1, int num2);
 int multiplicacionDigitos(int num1, int num2);
 int mayorMenorIgual(int num1, int num2);
+int multiplosDeTres(int num);
 #endif
