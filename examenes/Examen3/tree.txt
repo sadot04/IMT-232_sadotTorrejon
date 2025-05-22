@@ -1,0 +1,34 @@
+.
+├── build
+│   └── main
+│       ├── Analysis-00.toc
+│       ├── base_library.zip
+│       ├── EXE-00.toc
+│       ├── localpycs
+│       │   ├── pyimod01_archive.pyc
+│       │   ├── pyimod02_importers.pyc
+│       │   ├── pyimod03_ctypes.pyc
+│       │   └── struct.pyc
+│       ├── main.pkg
+│       ├── PKG-00.toc
+│       ├── PYZ-00.pyz
+│       ├── PYZ-00.toc
+│       ├── warn-main.txt
+│       └── xref-main.html
+├── dist
+│   └── main
+├── entorno.yml
+├── funciones
+│   ├── __init__.py
+│   ├── opcion1.py
+│   ├── opcion2.py
+│   ├── opcion3.py
+│   ├── opcion4.py
+│   └── __pycache__
+│       ├── __init__.cpython-311.pyc
+│       ├── opcion1.cpython-311.pyc
+│       ├── opcion2.cpython-311.pyc
+│       ├── opcion3.cpython-311.pyc
+│       └── opcion4.cpython-311.pyc
+├── main.py
+└── main.spec
