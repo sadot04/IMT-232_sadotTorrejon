@@ -7,15 +7,20 @@ while True:
     "4. Generar la secuencia de los primeros N términos de la serie de Fibonacci inversa.\n" \
     "5. Salir del programa." )
     opcion = int(input("Seleccione una opción:"))
-    N = int(input("Ingrese un numero: "))
+    
     if opcion == 1:
+        N = int(input("Ingrese un numero: "))
         sumaDeDivisores(N)
     if opcion == 2:
+        N = int(input("Ingrese un numero: "))
         imprimirTriangulo(N)
     if opcion == 3:
+        N = int(input("Ingrese un numero: "))
         mostrarNPrimos(N)      
     if opcion == 4:
+        N = int(input("Ingrese un numero: "))
         fibonacciInversa(N)
     if opcion == 5:
+        print("Adios \n Saliendo del programa ...")
         break
 
