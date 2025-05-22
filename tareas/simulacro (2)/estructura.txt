@@ -1,0 +1,37 @@
+.
+├── build
+│   └── main
+│       ├── Analysis-00.toc
+│       ├── base_library.zip
+│       ├── EXE-00.toc
+│       ├── localpycs
+│       │   ├── pyimod01_archive.pyc
+│       │   ├── pyimod02_importers.pyc
+│       │   ├── pyimod03_ctypes.pyc
+│       │   └── struct.pyc
+│       ├── main.pkg
+│       ├── PKG-00.toc
+│       ├── PYZ-00.pyz
+│       ├── PYZ-00.toc
+│       ├── warn-main.txt
+│       └── xref-main.html
+├── dist
+│   └── main
+├── entorno.yml
+├── estructura.txt
+├── main.py
+├── main.spec
+└── operaciones
+    ├── __init__.py
+    ├── operacion1.py
+    ├── operacion2.py
+    ├── operacion3.py
+    ├── operacion4.py
+    ├── operacion5.py
+    └── __pycache__
+        ├── __init__.cpython-312.pyc
+        ├── operacion1.cpython-312.pyc
+        ├── operacion2.cpython-312.pyc
+        ├── operacion3.cpython-312.pyc
+        ├── operacion4.cpython-312.pyc
+        └── operacion5.cpython-312.pyc

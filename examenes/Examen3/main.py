@@ -1,4 +1,4 @@
-from funciones import sumaDeDivisores, imprimirTriangulo, mostrarNPrimos
+from funciones import sumaDeDivisores, imprimirTriangulo, mostrarNPrimos, fibonacciInversa
 while True:
     print("----- MENÚ DE FUNCIONES -----\n" 
     "1. Calcular la suma de todos los divisores de un número N (excluyendo el propio número).\n"
@@ -13,6 +13,9 @@ while True:
     if opcion == 2:
         imprimirTriangulo(N)
     if opcion == 3:
-        mostrarNPrimos(N)        
-    break
+        mostrarNPrimos(N)      
+    if opcion == 4:
+        fibonacciInversa(N)
+    if opcion == 5:
+        break
 
